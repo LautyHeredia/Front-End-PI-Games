@@ -1,0 +1,9 @@
+export const FILTER = "FILTER";
+export const ORDER = "ORDER";
+export const ALL_CARDS = "ALL_CARDS";
+export const DETAIL_CARD = "DETAIL_CARD";
+export const CARD_BY_NAME = "CARD_BY_NAME";
+export const GET_GENRES = "GET_GENRES"
+export const POST_VIDEOGAME = "POST_VIDEOGAME"
+export const GET_PLATFORMS = "GET_PLATFORMS"
+export const FILTER_BY_GENRE = "FILTER_BY_GENRE"
